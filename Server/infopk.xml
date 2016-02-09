@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Root>
+  <Template>
+    <BasePath>http://pilatus.d1.comp.nus.edu.sg/~team06/upl1</BasePath>
+    <QualitiesFolder>
+      <High>high</High>
+      <Medium>mid</Medium>
+      <Low>low</Low>
+    </QualitiesFolder>
+  </Template>
+  <SegmentsPath>
+  </SegmentsPath>
+</Root>

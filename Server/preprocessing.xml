@@ -1,0 +1,4 @@
+<?php
+ system ("mv dummy.xml info.xml" );
+ system ("cp info.xml dummy.xml");
+?>

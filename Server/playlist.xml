@@ -1,0 +1,5 @@
+<playlist>
+<mpd path="http://pilatus.d1.comp.nus.edu.sg/~team06/vod_xml/mpd1.xml"/>
+<mpd path="http://pilatus.d1.comp.nus.edu.sg/~team06/vod_xml/mpd2.xml"/>
+<mpd path="http://pilatus.d1.comp.nus.edu.sg/~team06/vod_xml/mpd3.xml"/>
+</playlist>
